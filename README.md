@@ -1,0 +1,2 @@
+# ProgramacionMultiHilo
+Práctica final de la asignatura Sistemas Operativos sobre programación multi hilo en C. En esta práctica se busca crear un sistema concurrente capaz de realizar los cálculos de los costes de diferentes centros de procesamiento de forma concurrente, con el objetivo de mejorar el rendimiento. Se basa en un sistema Productor-Consumidor sobre un buffer circular, con N productores y un consumidor. 
